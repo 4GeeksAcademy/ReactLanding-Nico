@@ -1,3 +1,4 @@
+
 import React from "react";
 
 
@@ -22,3 +23,5 @@ export const Navbar = () => {
       </nav>
 );
 }
+
+export default Navbar;
