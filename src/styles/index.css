@@ -10,8 +10,3 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
-
-.size-card {
-    max-width: 376px;
-    max-height: 376px;
-}
